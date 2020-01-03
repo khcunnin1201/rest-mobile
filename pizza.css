@@ -1,0 +1,21 @@
+html{
+    height: 100%;
+    width: 100%;
+    background: center;
+}
+h1{
+    text-align: center;
+}
+.list-group{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+img{
+    display:block;
+    margin: 15px auto 15px auto;
+}
+.littlec{
+    margin-bottom: -30px ;
+}

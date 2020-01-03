@@ -1,0 +1,17 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+body{
+    background: url("/food-dinner-lunch-unhealthy-70497.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+}
+.container-fluid{
+    opacity: 0.8;
+    color: black;
+    
+}
